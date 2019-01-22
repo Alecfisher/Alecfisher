@@ -1,0 +1,20 @@
+h1 {
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+header {
+  width: 750px;
+  background: grey;
+}
+
+h2{
+font-family: 'Staatliches', cursive;
+width: 125px;
+background: grey;
+}
+
+body.home{
+  background: url("ocean.png")
+}
