@@ -15,6 +15,6 @@ width: 125px;
 background: grey;
 }
 
-body.home{
+.home{
   background: url("ocean.png")
 }
