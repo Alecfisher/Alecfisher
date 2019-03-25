@@ -1,0 +1,83 @@
+
+.begin {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+
+}
+
+.tortoisespeech {
+  position: absolute;
+  right: 200px;
+  bottom:400px;
+
+}
+
+.harespeech {
+  position: absolute;
+  right: 900px;
+  bottom: 470px;
+
+}
+
+.slowspeech {
+  position: absolute;
+  right: 950px;
+  bottom: 425px;
+}
+
+.steadyspeech {
+  position: absolute;
+  right:250px;
+  bottom: 425px;
+}
+
+.chess {
+  position: absolute;
+  right: 110px;
+  bottom:400px;
+
+}
+
+.scenery {
+  position: absolute;
+  right: 800px;
+  bottom: 400px;
+
+}
+
+.won {
+  position: absolute;
+  right: 110px;
+  bottom:400px;
+
+
+}
+
+.lost {
+  position: absolute;
+  right: 600px;
+  bottom: 400px;
+
+}
+
+.waterfall {
+  position: absolute;
+  right: 300px;
+  bottom:500px;
+
+}
+
+.flowers {
+  position: absolute;
+  right: 1000px;
+  bottom: 500px;
+
+}
+
+.finish {
+  position: absolute;
+  right: 0px;
+  top: 150px
+
+}
